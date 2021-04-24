@@ -1,5 +1,5 @@
 .gitignore
-*.[oa]
-cmake-build-debug/
+*.[oa]git
 .idea/
 .DS_Store
+/cmake-build-debug/
